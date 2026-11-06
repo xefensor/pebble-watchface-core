@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **This repository has moved to [xefensor/pebble-lib-core](https://github.com/xefensor/pebble-lib-core).**
+> Current development and documentation are maintained there as part of XOCE — Xef's Open Computing Ecosystem.
+> [Downloads and releases](https://github.com/xefensor/pebble-lib-core/releases) · [Report an issue](https://github.com/xefensor/pebble-lib-core/issues)
+> This repository is retained as a historical archive so existing links and releases remain available.
+
 # Pebble Watchface Core
 
 Shared data and lifecycle code for [Halftone](https://github.com/xefensor/halftone-watchface)
